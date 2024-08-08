@@ -1,0 +1,3 @@
+tar: v@version@:.
+tar: vendor base=vendor
+copy?: *.patch
